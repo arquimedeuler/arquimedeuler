@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="55.5625mm"
+   height="55.5625mm"
+   id="sqllite"
+   version="1.1"
+   sodipodi:docname="sqllite.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><style
+       id="style1-08">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-3">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-4">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-087">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-6">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-1">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-5">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-7">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-56">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style6">.st0{fill:none}</style><style
+       id="style6-9">.st0{fill:none}</style><style
+       id="style6-3">.st0{fill:none}</style></defs><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="642.5"
+     inkscape:cy="828.75"
+     inkscape:window-width="1352"
+     inkscape:window-height="848"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="sqllite"
+     inkscape:document-units="mm"><inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="210"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style><style
+     id="style1-0"><![CDATA[.B{stroke-linecap:round}.C{stroke-linejoin:round}.D{stroke-linejoin:miter}.E{stroke-width:.716}]]></style><g
+     id="g267"
+     transform="translate(-2176.831,-967.7357)"><rect
+       style="fill:#252937;fill-opacity:1"
+       id="rect257"
+       width="210"
+       height="210"
+       x="2176.8311"
+       y="967.73572"
+       rx="28"
+       ry="28" /><g
+       id="g264"
+       transform="matrix(5.8928234,0,0,5.8928234,2187.5459,978.45054)"><polygon
+         points="14.048,7.689 9.405,5.327 4.309,7.89 9.078,10.303 "
+         style="fill:#4dabcf"
+         id="polygon1" /><polygon
+         points="16.177,8.771 21.045,11.247 15.994,13.803 11.218,11.386 "
+         style="fill:#4dabcf"
+         id="polygon2" /><polygon
+         points="22.678,5.363 27.679,7.89 23.207,10.153 18.328,7.674 "
+         style="fill:#4dabcf"
+         id="polygon3" /><polygon
+         points="20.526,4.274 16.023,2 11.57,4.239 16.209,6.597 "
+         style="fill:#4dabcf"
+         id="polygon4" /><polygon
+         points="17.006,23.809 17.006,30 22.46,27.258 22.454,21.064 "
+         style="fill:#4dabcf"
+         id="polygon5" /><polygon
+         points="22.452,18.903 22.446,12.774 17.006,15.499 17.006,21.63 "
+         style="fill:#4dabcf"
+         id="polygon6" /><polygon
+         points="29,17.754 29,23.969 24.348,26.308 24.345,20.122 "
+         style="fill:#4dabcf"
+         id="polygon7" /><polygon
+         points="29,15.581 29,9.491 24.339,11.826 24.343,17.967 "
+         style="fill:#4dabcf"
+         id="polygon8" /><path
+         d="m 15.08,15.5 -3.674,-1.861 v 8.045 c 0,0 -4.493,-9.634 -4.906,-10.499 A 0.9,0.9 0 0 0 6.169,10.921 C 5.361,10.5 3,9.29 3,9.29 V 23.5 l 3.266,1.76 v -7.428 c 0,0 4.445,8.607 4.49,8.7 a 4.026,4.026 0 0 0 0.968,1.32 c 0.635,0.423 3.357,2.073 3.357,2.073 z"
+         style="fill:#4d77cf"
+         id="path8" /></g></g><style
+     type="text/css"
+     id="style1-60">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style><style
+     type="text/css"
+     id="style1-17">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style></svg>

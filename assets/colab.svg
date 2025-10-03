@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="55.5625mm"
+   height="55.5625mm"
+   id="sqllite"
+   version="1.1"
+   sodipodi:docname="sqllite.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><style
+       id="style1-08">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-3">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-4">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-087">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-6">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-1">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-5">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-7">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-56">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style></defs><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.6"
+     inkscape:cx="541.66667"
+     inkscape:cy="1415"
+     inkscape:window-width="1352"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="sqllite"
+     inkscape:document-units="mm"><inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="210"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style><style
+     id="style1-0"><![CDATA[.B{stroke-linecap:round}.C{stroke-linejoin:round}.D{stroke-linejoin:miter}.E{stroke-width:.716}]]></style><g
+     id="g92"
+     transform="translate(-555.59058,-1224.5671)"><g
+       id="g86"
+       transform="translate(159.56693,-16.894452)"><rect
+         style="fill:#252937;fill-opacity:1"
+         id="rect85"
+         width="210"
+         height="210"
+         x="396.02362"
+         y="1241.4615"
+         rx="28"
+         ry="28" /></g><g
+       style="display:block"
+       id="g91"
+       transform="matrix(6.9700911,0,0,6.9700911,576.93751,1245.9315)"><g
+         id="g5-7"><path
+           d="M 4.54,9.46 2.19,7.1 a 6.93,6.93 0 0 0 0,9.79 L 4.55,14.53 A 3.59,3.59 0 0 1 4.54,9.46 Z"
+           fill="#e8710a"
+           id="path1-98" /><path
+           d="m 2.19,7.1 2.35,2.36 a 3.59,3.59 0 0 1 5.08,0 l 1.71,-2.93 v 0 l -0.1,-0.08 v 0 A 6.93,6.93 0 0 0 2.19,7.1 Z"
+           fill="#f9ab00"
+           id="path2-0" /><path
+           d="m 11.34,17.46 v 0 L 9.62,14.54 a 3.59,3.59 0 0 1 -5.08,0 L 2.19,16.9 a 6.93,6.93 0 0 0 9,0.65 l 0.11,-0.09"
+           fill="#f9ab00"
+           id="path3-7" /><path
+           d="m 12,7.1 a 6.93,6.93 0 0 0 0,9.79 l 2.36,-2.36 A 3.5921024,3.5921024 0 1 1 19.44,9.45 L 21.81,7.1 A 6.93,6.93 0 0 0 12,7.1 Z"
+           fill="#f9ab00"
+           id="path4-5" /><path
+           d="m 21.81,7.1 -2.35,2.36 a 3.5921024,3.5921024 0 0 1 -5.08,5.08 L 12,16.9 a 6.9331829,6.9331829 0 0 0 9.81,-9.8 z"
+           fill="#e8710a"
+           id="path5-8" /></g></g></g></svg>

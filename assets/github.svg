@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="55.5625mm"
+   height="55.5625mm"
+   id="sqllite"
+   version="1.1"
+   sodipodi:docname="sqllite.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><style
+       id="style1-08">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-3">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-4">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-087">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-6">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-1">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-5">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-7">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-56">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style></defs><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.6"
+     inkscape:cx="541.66667"
+     inkscape:cy="1415"
+     inkscape:window-width="1352"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="sqllite"
+     inkscape:document-units="mm"><inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="210"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style><g
+     id="g40"
+     transform="translate(-21.700801,-306.31732)"><rect
+       style="fill:#252937;fill-opacity:1"
+       id="rect13"
+       width="210"
+       height="210"
+       x="21.700806"
+       y="306.31732"
+       rx="28"
+       ry="28" /><path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 126.76907,330.19207 c -45.658114,0 -82.568264,37.18225 -82.568264,83.18177 0,36.76987 23.6496,67.8948 56.457874,78.91088 4.10188,0.82816 5.60438,-1.78981 5.60438,-3.99202 0,-1.9284 -0.13521,-8.53839 -0.13521,-15.42556 -22.968494,4.95876 -27.751484,-9.91583 -27.751484,-9.91583 -3.69118,-9.64035 -9.16035,-12.11804 -9.16035,-12.11804 -7.51758,-5.09566 0.54759,-5.09566 0.54759,-5.09566 8.33896,0.55098 12.71464,8.5384 12.71464,8.5384 7.38068,12.66901 19.273934,9.08937 24.058614,6.88548 0.6828,-5.37115 2.87148,-9.08937 5.19537,-11.15468 -18.319024,-1.9284 -37.592954,-9.08937 -37.592954,-41.04076 0,-9.08937 3.2788,-16.52582 8.47418,-22.30935 -0.8197,-2.0653 -3.69119,-10.60539 0.82139,-22.03555 0,0 6.97167,-2.2039 22.691314,8.53839 a 79.384112,79.384112 0 0 1 20.64291,-2.75486 c 6.97168,0 14.07856,0.96505 20.64123,2.75486 15.72133,-10.74229 22.693,-8.53839 22.693,-8.53839 4.51257,11.43016 1.6394,19.97025 0.8197,22.03555 5.33227,5.78353 8.47586,13.21998 8.47586,22.30935 0,31.95139 -19.27392,38.97377 -37.72984,41.04076 3.00838,2.61628 5.60438,7.57335 5.60438,15.42388 0,11.15467 -0.13521,20.10715 -0.13521,22.86032 0,2.2039 1.50419,4.82187 5.60438,3.9954 32.80827,-11.01946 56.45787,-42.1427 56.45787,-78.91257 0.13521,-45.99952 -36.91015,-83.18177 -82.43137,-83.18177 z"
+       fill="#ffffff"
+       id="path1-9"
+       style="stroke-width:1.6901" /></g><style
+     id="style1-0"><![CDATA[.B{stroke-linecap:round}.C{stroke-linejoin:round}.D{stroke-linejoin:miter}.E{stroke-width:.716}]]></style></svg>

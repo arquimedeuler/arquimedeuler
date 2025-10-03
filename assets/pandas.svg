@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="55.5625mm"
+   height="55.5625mm"
+   id="sqllite"
+   version="1.1"
+   sodipodi:docname="sqllite.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><style
+       id="style1-08">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-3">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-4">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-087">
+      .cls-1 {
+        fill: #1d63ed;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-6">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-1">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-5">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style1-7">
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style><style
+       id="style1-56">.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style><style
+       id="style6">.st0{fill:none}</style><style
+       id="style6-9">.st0{fill:none}</style><style
+       id="style6-3">.st0{fill:none}</style></defs><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="642.5"
+     inkscape:cy="828.75"
+     inkscape:window-width="1352"
+     inkscape:window-height="848"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="sqllite"
+     inkscape:document-units="mm"><inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="210"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style><style
+     id="style1-0"><![CDATA[.B{stroke-linecap:round}.C{stroke-linejoin:round}.D{stroke-linejoin:miter}.E{stroke-width:.716}]]></style><g
+     id="g268"
+     transform="translate(-2481.6179,-967.7357)"><rect
+       style="fill:#f0f4fa;fill-opacity:1"
+       id="rect258"
+       width="210"
+       height="210"
+       x="2481.6179"
+       y="967.73572"
+       rx="28"
+       ry="28" /><g
+       id="g265"
+       transform="matrix(1.4720361,0,0,1.4720361,2492.0359,977.65028)"><path
+         style="-inkscape-stroke:none"
+         d="m 48.697,15.176 h 12.25 v 25.437 h -12.25 z m 0,52.251 h 12.25 v 25.436 h -12.25 z"
+         color="#000000"
+         fill="#130754"
+         id="path1-7" /><path
+         style="-inkscape-stroke:none"
+         d="m 48.697,48.037 h 12.25 v 12.001 h -12.25 z"
+         color="#000000"
+         fill="#ffca00"
+         id="path2-21" /><path
+         style="-inkscape-stroke:none"
+         d="m 29.017,36.087 h 12.25 v 84.552 H 29.017 Z M 67.97,88.414 H 80.22 V 113.85 H 67.97 Z m 0,-52.297 H 80.22 V 61.554 H 67.97 Z"
+         color="#000000"
+         fill="#130754"
+         id="path3-84" /><path
+         style="-inkscape-stroke:none"
+         d="M 67.97,68.983 H 80.22 V 80.984 H 67.97 Z"
+         color="#000000"
+         fill="#e70488"
+         id="path4-2" /><path
+         style="-inkscape-stroke:none"
+         d="m 87.238,8.55 h 12.25 v 84.552 h -12.25 z"
+         color="#000000"
+         fill="#130754"
+         id="path5" /></g></g><style
+     type="text/css"
+     id="style1-60">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style><style
+     type="text/css"
+     id="style1-17">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#4DA925;}
+	.st2{fill:#2A3238;}
+</style></svg>
